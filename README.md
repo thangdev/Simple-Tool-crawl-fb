@@ -6,7 +6,7 @@
 
 ### Installation
 
-Before run script you have to fill the token in config/token.js
+Before run script, make sure that you have a token and fill it in config/token.js
 
 
 ```sh
