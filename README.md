@@ -7,7 +7,7 @@
 ### Installation
 
 Before run script, make sure that you have a token and fill it in config/token.js. If not, please go to https://developers.facebook.com/tools/explorer and follow this guild to get a token app.
-
+Detail
 
 ```sh
 module.exports = {
